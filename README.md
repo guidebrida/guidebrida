@@ -1,6 +1,6 @@
 Oi, meu nome e Guilherme De Brida
 
-Sou desenvolvedor e acadêmico da 7 fase de Ciência Da computação.
+Sou desenvolvedor e acadêmico da 8* fase de Ciência Da computação.
 
   ##
 Contato: 
