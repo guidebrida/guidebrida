@@ -1,6 +1,6 @@
 Oi, meu nome e Guilherme De Brida
 
-Sou desenvolvedor e acadêmico da 8* fase de Ciência Da computação.
+Sou desenvolvedor e acadêmico da 8* fase de Ciência Da computação na Universidade do Extremo sul Catarinense(UNESC).
 
   ##
 Contato: 
@@ -10,7 +10,7 @@ Contato:
 <div style="display: inline_block"><br>
   
   ##
-Habilidades:
+Stacks:
   
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
