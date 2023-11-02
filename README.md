@@ -1,9 +1,8 @@
-Oi, meu nome e Guilherme De Brida
+Hi, my name is Guilherme De Brida.
 
-Sou desenvolvedor e acadêmico da 8* fase de Ciência Da computação na Universidade do Extremo sul Catarinense(UNESC).
+I'm a full-stack developer and a student in the last semester of Computer Science at the University of Extremo Sul Catarinense (UNESC).
 
-  ##
-Contato: 
+Contact:
 
   <a href="https://www.linkedin.com/in/guilherme-de-brida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:guilhermedbdb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
