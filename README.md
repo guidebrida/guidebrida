@@ -1,6 +1,6 @@
 Hi, my name is Guilherme De Brida.
 
-I'm a full-stack developer and a student in the last semester of Computer Science at the University of Extremo Sul Catarinense (UNESC).
+I'm a full-stack developer and a senior student of Computer Science at the Universidade do Extremo Sul Catarinense (UNESC).
 
 Contact:
 
@@ -11,11 +11,12 @@ Contact:
   ##
 Stacks:
   
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 </div>
+
+          
