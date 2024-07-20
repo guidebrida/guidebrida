@@ -1,6 +1,6 @@
 Hi, my name is Guilherme De Brida.
 
-I'm a full-stack developer and a senior student of Computer Science at the Universidade do Extremo Sul Catarinense (UNESC).
+I'm a Software Engineer currently at Betha sistemas(https://www.betha.com.br/). 
 
 Contact:
 
@@ -16,3 +16,10 @@ Contact:
 </div>
 
           
+
+
+### **Github Stats**:  
+
+|               |               |
+| ------------- | ------------- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=guidebrida&theme=tokyonight&hide_border=false)<br/>  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guidebrida&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
