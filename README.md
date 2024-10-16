@@ -1,7 +1,6 @@
 Hi, my name is Guilherme De Brida.
 
-I'm a Software Engineer currently at Betha sistemas(https://www.betha.com.br/). 
-
+I'm a Software Engineer currently at AMcom(https://amcom.com.br/)
 Contact:
 
   <a href="https://www.linkedin.com/in/guilherme-de-brida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
