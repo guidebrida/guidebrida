@@ -17,8 +17,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** from Santa Catarina, Brazil 🇧🇷, currently working at **AMcom** allocated at **Badesc Development Agency**.  
-I have over **3 years of experience** building scalable and secure systems for the **public sector**, working across backend, frontend and cloud-integrated solutions.
+I'm a **Software Engineer** from Santa Catarina, Brazil 🇧🇷, currently working at **AMcom**.  
+I have over **5 years of experience** building scalable and secure systems, working across backend, frontend and cloud-integrated solutions.
 
 I enjoy solving complex problems, designing clean architectures and delivering reliable software in agile environments.
 
