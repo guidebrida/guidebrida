@@ -48,7 +48,16 @@ I enjoy solving complex problems, designing clean architectures and delivering r
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
+## 📊 GitHub Stats
+
+### 📌 Profile Summary
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guidebrida&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### 📌 Languages & Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guidebrida&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guidebrida&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 ## 🌎 Let’s Connect
 
